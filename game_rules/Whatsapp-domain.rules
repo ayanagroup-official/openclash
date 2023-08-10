@@ -1,1 +1,6 @@
-payload : 
+payload: 
+   # Whatsapp 
+   - DOMAIN-SUFFIX,whatsapp.com 
+   - DOMAIN-SUFFIX,web.whaatsapp.com 
+   - DOMAIN-SUFFIX,cdn.whsatsapp.net
+   - DOMAIN-SUFFIX,chat.cdn.whatsapp.net
