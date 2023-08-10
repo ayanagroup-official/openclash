@@ -271,7 +271,7 @@ tun:
 authentication:
 - Clash:xxxxxxx
 rule-providers:
-  Porn:
+  Reject:
     type: http
     behavior: classical
     path: "/etc/openclash/rule_provider/Reject.yaml"
