@@ -1,45 +1,45 @@
 proxies:
-  - name: fvlsikd-globalssh_vless_tcp_tls
-    server: vless-ikd-id03.globalssh.xyz
-    port: 443
-    type: vless
-    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
-    tls: true
-    servername: vless-ikd-id03.globalssh.xyz
-    skip-cert-verify: true
-    network: http
-    http-opts:
-      method: GET
-      path:
-        - /vless-tcp
-      headers:
-        Host:
-          - vless-ikd-id03.globalssh.xyz
-    udp: true
-  - name: fvlsikd-globalssh_vless_ws_tls
-    server: vless-ikd-id03.globalssh.xyz
-    port: 443
-    type: vless
-    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
-    tls: true
-    servername: vless-ikd-id03.globalssh.xyz
-    skip-cert-verify: true
-    network: ws
-    ws-opts:
-      path: /vless-ws
-      headers:
-        Host: vless-ikd-id03.globalssh.xyz
-    udp: true
-  - name: fvlsikd-globalssh_vless_grpc_tls
-    server: vless-ikd-id03.globalssh.xyz
-    port: 443
-    type: vless
-    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
-    tls: true
-    servername: vless-ikd-id03.globalssh.xyz
-    skip-cert-verify: true
-    network: grpc
-    grpc-opts:
-      grpc-mode: gun
-      grpc-service-name: vless-grpc
-    udp: true
+- name: fvlsikd-globalssh_vless_tcp_tls
+  server: vless-ikd-id03.globalssh.xyz
+  port: 443
+  type: vless
+  uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
+  tls: true
+  servername: vless-ikd-id03.globalssh.xyz
+  skip-cert-verify: true
+  network: http
+  http-opts:
+    method: GET
+    path:
+      - /vless-tcp
+    headers:
+      Host:
+        - vless-ikd-id03.globalssh.xyz
+  udp: true
+- name: fvlsikd-globalssh_vless_ws_tls
+  server: vless-ikd-id03.globalssh.xyz
+  port: 443
+  type: vless
+  uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
+  tls: true
+  servername: vless-ikd-id03.globalssh.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /vless-ws
+    headers:
+      Host: vless-ikd-id03.globalssh.xyz
+  udp: true
+- name: fvlsikd-globalssh_vless_grpc_tls
+  server: vless-ikd-id03.globalssh.xyz
+  port: 443
+  type: vless
+  uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
+  tls: true
+  servername: vless-ikd-id03.globalssh.xyz
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-mode: gun
+    grpc-service-name: vless-grpc
+  udp: true
