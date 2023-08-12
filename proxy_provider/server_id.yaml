@@ -1,71 +1,45 @@
 proxies:
-  - name: rmtj_trojan
-    server: domain-server.com
-    port: 80
-    type: trojan
-    password: 30052020
-    skip-cert-verify: true
-    sni: update2.farlight84miraclegames.com.cdn.jcloudcdn.com
-    udp: true
-  - name: rmtj_trojan_grpc
-    server: domain-server.com
+  - name: fvlsikd-globalssh_vless_tcp_tls
+    server: vless-ikd-id03.globalssh.xyz
     port: 443
-    type: trojan
-    password: 30052020
+    type: vless
+    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
+    tls: true
+    servername: vless-ikd-id03.globalssh.xyz
     skip-cert-verify: true
-    sni: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
-    network: grpc
-    grpc-opts:
-      grpc-service-name: trojan-grpc
-    udp: true
-  - name: rmtj_trojan_ws
-    server: domain-server.com
-    port: 80
-    type: trojan
-    password: 30052020
-    skip-cert-verify: true
-    sni: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
-    network: ws
-    ws-opts:
-      path: /trojan-ws
+    network: http
+    http-opts:
+      method: GET
+      path:
+        - /vless-tcp
       headers:
-        Host: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
+        Host:
+          - vless-ikd-id03.globalssh.xyz
     udp: true
-  - name: tlsuas_vless_tcp_tls
-    server: domain-server.com
+  - name: fvlsikd-globalssh_vless_ws_tls
+    server: vless-ikd-id03.globalssh.xyz
     port: 443
     type: vless
-    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
-    cipher: auto
+    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
     tls: true
+    servername: vless-ikd-id03.globalssh.xyz
     skip-cert-verify: true
-    servername: creatorcamp.bug.com
-    udp: true
-  - name: tlsuas_vless_ws_tls
-    server: domain-server.com
-    port: 443
-    type: vless
-    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: esports.bug.com
     network: ws
     ws-opts:
       path: /vless-ws
       headers:
-        Host: esports.bug.com
+        Host: vless-ikd-id03.globalssh.xyz
     udp: true
-  - name: tlsuas_vless_grpc_tls
-    server: domain-server.com
+  - name: fvlsikd-globalssh_vless_grpc_tls
+    server: vless-ikd-id03.globalssh.xyz
     port: 443
     type: vless
-    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
-    cipher: auto
+    uuid: a4e45690-bf75-4273-aaae-2502b5a6bfdc
     tls: true
+    servername: vless-ikd-id03.globalssh.xyz
     skip-cert-verify: true
-    servername: manage.bug.com
     network: grpc
     grpc-opts:
+      grpc-mode: gun
       grpc-service-name: vless-grpc
     udp: true
