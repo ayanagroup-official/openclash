@@ -1,0 +1,71 @@
+proxies:
+  - name: rmtj_trojan
+    server: domain-server.com
+    port: 80
+    type: trojan
+    password: 30052020
+    skip-cert-verify: true
+    sni: update2.farlight84miraclegames.com.cdn.jcloudcdn.com
+    udp: true
+  - name: rmtj_trojan_grpc
+    server: domain-server.com
+    port: 443
+    type: trojan
+    password: 30052020
+    skip-cert-verify: true
+    sni: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan-grpc
+    udp: true
+  - name: rmtj_trojan_ws
+    server: domain-server.com
+    port: 80
+    type: trojan
+    password: 30052020
+    skip-cert-verify: true
+    sni: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
+    network: ws
+    ws-opts:
+      path: /trojan-ws
+      headers:
+        Host: update2.farlight84miraclegames.com.b.galileo.jcloud-cdn.com
+    udp: true
+  - name: tlsuas_vless_tcp_tls
+    server: domain-server.com
+    port: 443
+    type: vless
+    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: creatorcamp.bug.com
+    udp: true
+  - name: tlsuas_vless_ws_tls
+    server: domain-server.com
+    port: 443
+    type: vless
+    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: esports.bug.com
+    network: ws
+    ws-opts:
+      path: /vless-ws
+      headers:
+        Host: esports.bug.com
+    udp: true
+  - name: tlsuas_vless_grpc_tls
+    server: domain-server.com
+    port: 443
+    type: vless
+    uuid: 3a914cd3-59b3-xxxx-xxxx-affa7d30ed7b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: manage.bug.com
+    network: grpc
+    grpc-opts:
+      grpc-service-name: vless-grpc
+    udp: true
