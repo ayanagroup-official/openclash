@@ -1,150 +1,150 @@
 payload:
- # iqiyi & pps
- - 'a.ckm.iqiyi.com'
- - 'ad.m.iqiyi.com'
- - 'afp.iqiyi.com'
- - 'androidgo.duapp.com'
- - 'api.cupid.iqiyi.com'
- - 'api.cupid.qiyi.com'
- - 'c.uaa.iqiyi.com'
- - 'cloudpush.iqiyi.com'
- - 'cm.passport.iqiyi.com'
- - 'count.game.pps.tv
- - 'cupid.iqiyi.com'
- - 'emoticon.sns.iqiyi.com'
- - 'game.pps.tv
- - 'gamecenter.iqiyi.com'
- - 'ifacelog.iqiyi.com'
- - 'mbdlog.iqiyi.com'
- - 'msg.71.am'
- - 'msg.qy.net'
- - 'msg.iqiyi.com'
- - 'msg.video.qiyi.com'
- - 'msg2.video.qiyi.com'
- - 'msga.71.am'
- - 'msga.cupid.iqiyi.com'
- - 'nl.notice.iqiyi.com'
- - 'nl.rcd.iqiyi.com'
- - 'notice.iqiyi.com'
- - 'noxagile.duapp.com'
- - 'paopao.iqiyi.com'
- - 'policy.video.iqiyi.com'
- - 'static.g.iqiyi.com'
- - 'static.g.ppstream.com'
- - 'store.iqiyi.com'
- - 't7z.cupid.iqiyi.com'
- - 'tracker.sns.iqiyi.com'
- - 'yuedu.iqiyi.com'
- # Youku & Tudou
- - 'actives.youku.com'
- - 'ad.api.3g.tudou.com'
- - 'ad.api.3g.youku.com'
- - 'ad.api.mobile.youku.com'
- - 'ad.mobile.youku.com'
- - 'a-dxk.play.api.3g.youku.com'
- - 'b.smartvideo.youku.com'
- - 'c.yes.youku.com'
- - 'das.api.youku.com'
- - 'das.mobile.youku.com'
- - 'dev-push.m.youku.com'
- - 'dl.g.youku.com'
- - 'dmapp.youku.com'
- - 'gamex.mobile.youku.com'
- - 'hudong.pl.youku.com'
- - 'huodong.pl.youku.com'
- - 'huodong.vip.youku.com'
- - 'hz.youku.com'
- - 'iyes.youku.com'
- - 'l.ykimg.com'
- - 'lstat.youku.com'
- - 'm.yes.youku.com'
- - 'mobilemsg.youku.com'
- - 'msg.youku.com'
- - 'myes.youku.com'
- - 'p.l.youku.com'
- - 'passport-log.youku.com'
- - 'p-log.ykimg.com'
- - 'push.m.youku.com'
- - 'r.l.youku.com'
- - 's.p.youku.com'
- - 'sdk.api.gamex.mobile.youku.com'
- - 'sdk.m.youku.com'
- - 'stat.youku.com'
- - 'store.tv.api.3g.youku.com'
- - 'store.xl.api.3g.youku.com'
- - 'tdrec.youku.com'
- - 'test.ott.youku.com'
- - 'urchin.lstat.youku.com'
- - 'v.l.youku.com'
- - 'val.api.youku.com'
- - 'wan.youku.com'
- - 'ykatr.youku.com'
- - 'ykrec.youku.com'
- # MGTV
- - 'ads-api.videojj.com'
- - 'cdn.cmop.mgtv.com'
- - 'click.hunantv.com'
- - 'cmop.mgtv.com'
- - 'cytron.videojj.com'
- - 'cytroncdn.videojj.com'
- - 'da.hunantv.com'
- - 'da.mgtv.com'
- - 'imgaliyun.da.mgtv.com'
- - 'imgaliyun.res.mgtv.com'
- - 'm2.da.mgtv.com'
- - 'me.videojj.com'
- - 'mobaliyun.res.mgtv.com'
- - 'mobile.da.mgtv.com'
- - 'mobile2.da.mgtv.com'
- - 'mp4.res.hunantv.com'
- - 'pc.da.mgtv.com'
- - 'pc1.da.mgtv.com'
- - 'pcvideoaliyun.titan.mgtv.com'
- - 'pcvideoyd.titan.mgtv.com'
- - 'pcweb.v1.mgtv.com'
- - 'plat.videojj.com'
- - 'py.da.mgtv.com'
- - 'res.hunantv.com'
- - 'store.videojj.com'
- - 'v2.da.mgtv.com'
- - 'va.videojj.com'
- - 'web.da.mgtv.com'
- - 'x.da.hunantv.com'
- - 'x.da.mgtv.com'
- - 'x1.da.hunantv.com'
- - 'y.da.hunantv.com'
- - 'y.da.mgtv.com'
+  # iqiyi & pps
+  - 'a.ckm.iqiyi.com'
+  - 'ad.m.iqiyi.com'
+  - 'afp.iqiyi.com'
+  - 'androidgo.duapp.com'
+  - 'api.cupid.iqiyi.com'
+  - 'api.cupid.qiyi.com'
+  - 'c.uaa.iqiyi.com'
+  - 'cloudpush.iqiyi.com'
+  - 'cm.passport.iqiyi.com'
+  - 'count.game.pps.tv
+  - 'cupid.iqiyi.com'
+  - 'emoticon.sns.iqiyi.com'
+  - 'game.pps.tv
+  - 'gamecenter.iqiyi.com'
+  - 'ifacelog.iqiyi.com'
+  - 'mbdlog.iqiyi.com'
+  - 'msg.71.am'
+  - 'msg.qy.net'
+  - 'msg.iqiyi.com'
+  - 'msg.video.qiyi.com'
+  - 'msg2.video.qiyi.com'
+  - 'msga.71.am'
+  - 'msga.cupid.iqiyi.com'
+  - 'nl.notice.iqiyi.com'
+  - 'nl.rcd.iqiyi.com'
+  - 'notice.iqiyi.com'
+  - 'noxagile.duapp.com'
+  - 'paopao.iqiyi.com'
+  - 'policy.video.iqiyi.com'
+  - 'static.g.iqiyi.com'
+  - 'static.g.ppstream.com'
+  - 'store.iqiyi.com'
+  - 't7z.cupid.iqiyi.com'
+  - 'tracker.sns.iqiyi.com'
+  - 'yuedu.iqiyi.com'
+  # Youku & Tudou
+  - 'actives.youku.com'
+  - 'ad.api.3g.tudou.com'
+  - 'ad.api.3g.youku.com'
+  - 'ad.api.mobile.youku.com'
+  - 'ad.mobile.youku.com'
+  - 'a-dxk.play.api.3g.youku.com'
+  - 'b.smartvideo.youku.com'
+  - 'c.yes.youku.com'
+  - 'das.api.youku.com'
+  - 'das.mobile.youku.com'
+  - 'dev-push.m.youku.com'
+  - 'dl.g.youku.com'
+  - 'dmapp.youku.com'
+  - 'gamex.mobile.youku.com'
+  - 'hudong.pl.youku.com'
+  - 'huodong.pl.youku.com'
+  - 'huodong.vip.youku.com'
+  - 'hz.youku.com'
+  - 'iyes.youku.com'
+  - 'l.ykimg.com'
+  - 'lstat.youku.com'
+  - 'm.yes.youku.com'
+  - 'mobilemsg.youku.com'
+  - 'msg.youku.com'
+  - 'myes.youku.com'
+  - 'p.l.youku.com'
+  - 'passport-log.youku.com'
+  - 'p-log.ykimg.com'
+  - 'push.m.youku.com'
+  - 'r.l.youku.com'
+  - 's.p.youku.com'
+  - 'sdk.api.gamex.mobile.youku.com'
+  - 'sdk.m.youku.com'
+  - 'stat.youku.com'
+  - 'store.tv.api.3g.youku.com'
+  - 'store.xl.api.3g.youku.com'
+  - 'tdrec.youku.com'
+  - 'test.ott.youku.com'
+  - 'urchin.lstat.youku.com'
+  - 'v.l.youku.com'
+  - 'val.api.youku.com'
+  - 'wan.youku.com'
+  - 'ykatr.youku.com'
+  - 'ykrec.youku.com'
+  # MGTV
+  - 'ads-api.videojj.com'
+  - 'cdn.cmop.mgtv.com'
+  - 'click.hunantv.com'
+  - 'cmop.mgtv.com'
+  - 'cytron.videojj.com'
+  - 'cytroncdn.videojj.com'
+  - 'da.hunantv.com'
+  - 'da.mgtv.com'
+  - 'imgaliyun.da.mgtv.com'
+  - 'imgaliyun.res.mgtv.com'
+  - 'm2.da.mgtv.com'
+  - 'me.videojj.com'
+  - 'mobaliyun.res.mgtv.com'
+  - 'mobile.da.mgtv.com'
+  - 'mobile2.da.mgtv.com'
+  - 'mp4.res.hunantv.com'
+  - 'pc.da.mgtv.com'
+  - 'pc1.da.mgtv.com'
+  - 'pcvideoaliyun.titan.mgtv.com'
+  - 'pcvideoyd.titan.mgtv.com'
+  - 'pcweb.v1.mgtv.com'
+  - 'plat.videojj.com'
+  - 'py.da.mgtv.com'
+  - 'res.hunantv.com'
+  - 'store.videojj.com'
+  - 'v2.da.mgtv.com'
+  - 'va.videojj.com'
+  - 'web.da.mgtv.com'
+  - 'x.da.hunantv.com'
+  - 'x.da.mgtv.com'
+  - 'x1.da.hunantv.com'
+  - 'y.da.hunantv.com'
+  - 'y.da.mgtv.com'
 
  Pornhub
- - 'phncdn.com'
- - 'phprcdn.com'
- - 'pornhub.com'
- - 'pornhubpremium.com'
+  - 'phncdn.com'
+  - 'phprcdn.com'
+  - 'pornhub.com'
+  - 'pornhubpremium.com'
  Porn
 - DOMAIN-KEYWORD,porn
- - '8teenxxx.com'
- - 'ahcdn.com'
- - 'bcvcdn.com'
- - 'bongacams.com'
- - 'chaturbate.com'
- - 'dditscdn.com'
- - 'livejasmin.com'
- - 'phncdn.com'
- - 'phprcdn.com'
- - 'pornhub.com'
- - 'pornhubpremium.com'
- - 'rdtcdn.com'
- - 'redtube.com'
- - 'sb-cd.com'
- - 'spankbang.com'
- - 't66y.com'
- - 'xhamster.com'
- - 'xnxx-cdn.com'
- - 'xnxx.com'
- - 'xvideos-cdn.com'
- - 'xvideos.com'
- - 'ypncdn.com'
- # Baidu
+  - '8teenxxx.com'
+  - 'ahcdn.com'
+  - 'bcvcdn.com'
+  - 'bongacams.com'
+  - 'chaturbate.com'
+  - 'dditscdn.com'
+  - 'livejasmin.com'
+  - 'phncdn.com'
+  - 'phprcdn.com'
+  - 'pornhub.com'
+  - 'pornhubpremium.com'
+  - 'rdtcdn.com'
+  - 'redtube.com'
+  - 'sb-cd.com'
+  - 'spankbang.com'
+  - 't66y.com'
+  - 'xhamster.com'
+  - 'xnxx-cdn.com'
+  - 'xnxx.com'
+  - 'xvideos-cdn.com'
+  - 'xvideos.com'
+  - 'ypncdn.com'
+  # Baidu
 - 'baidustatic.com'
 - 'duclick.baidu.com'
 - 'hm.baidu.com'
@@ -158,15 +158,15 @@ payload:
 - 'newvector.map.baidu.com'
 - 'ulog.imap.baidu.com'
 - 'newloc.map.n.shifen.com'
- # Bilibili
+  # Bilibili
 - 'miniapp.bilibili.com'
 - 'thirdparty.biliapi.com'
- # OpenAI
+  # OpenAI
 - 'o33249.ingest.sentry.io'
 - 'openaicom.imgix.net'
- # ele
+  # ele
 - 'log.star.ele.me'
- # Netease
+  # Netease
 - 'ad.bn.net'ease.com'
 - 'ad.yixin.im
 - 'iadmat.nosdn.127.net'
@@ -183,14 +183,14 @@ payload:
 - 'rd.da.net'ease.com'
 - 'wr.da.net'ease.com'
 - 'yt-adp.nosdn.127.net'
- # Zhihu
+  # Zhihu
 - 'appcloud2.in.zhihu.com'
 - 'mqtt.zhihu.com'
 - 'sugar.zhihu.com'
 - 'zhihu-analytics.zhihu.com'
 - 'zhihu-web-analytics.zhihu.com'
- - 'xdrig.com'
- - 'zhihu.xmcimg.com'
+  - 'xdrig.com'
+  - 'zhihu.xmcimg.com'
 - 'asia'
 - 'baidu.com'
 - 'example.org'
@@ -213,11 +213,11 @@ payload:
 - '1.pool.ntp.org'
 - '2.pool.ntp.org'
 - '3.pool.ntp.org'
- # AcuityAds
+  # AcuityAds
 - 'acuityads.com'
 - 'acuityplatform.com'
 - 'e7125.d.akamaiedge.net'
- # Adobe Ads
+  # Adobe Ads
 - '2o7.net'
 - 'adobeaemcloud.com'
 - 'adobe-campaign.com'
@@ -256,35 +256,35 @@ payload:
 - 'adobe-aem.map.fastly.net'
 - 'dcs-edge-apse-231350507.ap-southeast-1.elb.am'azonaws.com'
 - 'everesttech.net.akadns.net'
- # AdsWizz
+  # AdsWizz
 - 'adswizz.com'
 - 'as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.am'azonaws.com'
- # Integral Ads
+  # Integral Ads
 - 'adsafeprotected.com'
 - 'iasds01.com'
 - 'integralads.com'
 - 'stg-adsafeprotected.com'
 - 'dt-external-217593033.us-east-1.elb.am'azonaws.com'
- # Moat Ad Search
+  # Moat Ad Search
 - 'moatads.com'
 - 'moat.com'
 - 'moatpixel.com'
 - 'e13136.d.akamaiedge.net'
 - 'moat-ads.s3.am'azonaws.com'
- # PopAds
+  # PopAds
 - 'popads.net'
- # Smart AdServer
+  # Smart AdServer
 - 'sascdn.com'
 - 'smartadserver.com'
 - 'cs410.wac.edgecastcdn.net'
- # TANX Ads
+  # TANX Ads
 - 'tanx.com'
 - 'tanx.com.gds.alibabadns.com'
- # Teads
+  # Teads
 - 'teads.com'
 - 'teads.tv
 - 'e9957.b.akamaiedge.net'
- # Yahoo Ads
+  # Yahoo Ads
 - 'adap.tv
 - 'ads.yahoo.com'
 - 'adtechus.com'
@@ -295,7 +295,7 @@ payload:
 - 'onebyaol.com'
 - 'vidible.tv
 - 'acds-uset1-ext-prod-a-2089480832.us-east-1.elb.am'azonaws.com'
- # Heytapmobile
+  # Heytapmobile
 - 'adx-id.ads.heytapmobi.com'
 - 'adsfs-id.heytapimg.com'
 - 'cl-data-id.ads.heytapmobi.com'
@@ -312,7 +312,7 @@ payload:
 - 'adx-id.ads.heytapmobile.com'
 - 'adx-my.ads.heytapmobile.com'
 - 'sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.am'azonaws.com'
- # Doubleclick
+  # Doubleclick
 - 'doubleclick.com'
 - 'doubleclickbygoogle.com'
 - '9410194.fls.doubleclick.net'
@@ -334,7 +334,7 @@ payload:
 - 'ff.doubleclick.net'
 - 'adclick.g.doubleclick.net'
 - 'secureads.g.doubleclick.net'
- # Amazon-adsystem.com'
+  # Amazon-adsystem.com'
 - 'c.am'azon-adsystem.com'
 - 'mads.am'azon-adsystem.com'
 - 's.am'azon-adsystem.com'
@@ -348,7 +348,7 @@ payload:
 - 'fls-na.am'azon-adsystem.com'
 - 'aax-us-east.am'azon-adsystem.com'
 - 'aax.am'azon-adsystem.com'
- # Random
+  # Random
 - 'dsp.ads.umeng.com'
 - 'dubaidriftads.dubaipolicegames.com'
 - 'soccerads.zerofour.ae
@@ -1649,7 +1649,7 @@ Push
 - 'courier-ab-vs.push.apple.com'
 - 'init-p01st.push.apple.com'
 - 'init.push.apple.com'
- #RANDOM
+  #RANDOM
 - 'ali-stats.jpush.cn'
 - 'codepush.appcenter.ms
 - 'codepush.akulaku.net'
@@ -1739,7 +1739,7 @@ Push.io'
 - 'mqtt-1652656492.pushy.io'
 - 'mqtt-1652649322.pushy.io'
 - 'mqtt-1652649291.pushy.io'
- #HEYTAMOBIILE
+  #HEYTAMOBIILE
 - 'httpdns-push.heytapmobile.com'
 - 'shortintl.push.heytapmobile.com'
 - 'dcintl1.push.heytapmobile.com'
@@ -2075,7 +2075,7 @@ Unidentified
 - 'all.s5h.net'
 - 'sinewedretore.casa
 - 'outwhirlipedeer.com'
- # Beacons
+  # Beacons
 - 'beacons.gvt1.com'
 - 'beacons2.gvt1.com'
 - 'beacons3.gvt1.com'
@@ -2096,7 +2096,7 @@ Unidentified
 - 'beacons.gcp.gvt3.com'
 - 'beacons.glance.inmobi.com'
 - 'beacons-online5.glance-internal.inmobi.com'
- # detik.com'
+  # detik.com'
 - 'analytic.detik.com'
 - 'analytic20.detik.com'
 - 'mobile-analytic.detik.com'
@@ -2104,7 +2104,7 @@ Unidentified
 - 'displaybanner.detik.com'
 - 'adsmart.detik.com'
 - 'push.detik.com'
- # rsc.cdn77.org'
+  # rsc.cdn77.org'
 - '1062222904.rsc.cdn77.org'
 - '1276298696.rsc.cdn77.org'
 - '1394501235.rsc.cdn77.org'
@@ -2120,7 +2120,7 @@ Unidentified
 - '1388344021.rsc.cdn77.org'
 - '1666945197.rsc.cdn77.org'
 - '1971296482.rsc.cdn77.org'
- # Adsrvs
+  # Adsrvs
 - 's.adsrvs.com'
 - 'ad.adsrvr.org'
 - 'js.adsrvr.org'
@@ -2131,11 +2131,11 @@ Unidentified
 - 'jp1-bid.adsrvr.org'
 - 'ie1-bid.adsrvr.org'
 - 'hk3-bid.adsrvr.org'
- # tiktok
+  # tiktok
 - 'analytics.tiktok.com'
 - 'analytics-sg.tiktok.com'
 - 'analytics-attribution.tiktok.com'
- # MALWARE
+  # MALWARE
 - 'eqads.com'
 - 'um2.eqads.com'
 - 'r3.o.lencr.org'
@@ -2149,13 +2149,13 @@ Unidentified
 - 'omnatuor.com'
 - 'azkcqs.com'
 - 'a.realsrv.com'
- # SPYWARE 
+  # SPYWARE 
 - 'applog.uc.cn'
 - 'woodpecker.uc.cn'
 - 'braze-images.com'
 - 'cutt.ly
 - 'b1.nel.goog
- # POP-UP
+  # POP-UP
 - 'gossip-celeb-news.com'
 - 'cleardexchange.com'
 - 'beholdascared.com'
@@ -2163,10 +2163,10 @@ Unidentified
 - 'paychat.fuse-cloud.com'
 - 'spotofspawn.com'
 - 'topnews-24.com'
- # googleapis.com'
+  # googleapis.com'
 - 'firebaselogging.googleapis.com'
 - 'firebaselogging-pa.googleapis.com'
- # GOOGLE ADSERVICE
+  # GOOGLE ADSERVICE
 - 'adservice.google.ca
 - 'adservice.google.co.in
 - 'adservice.google.co.kr
@@ -2201,11 +2201,11 @@ Unidentified
 - 'www.googleadservices.com'
 - 'pagead2.googleadservices.com'
 - 'partner.googleadservices.com'
- # GOOGLE TAG MANAGER
+  # GOOGLE TAG MANAGER
 - 'www.googletagmanager.com'
 - 'www.googletagservices.com'
 - 'www-googletagmanager.l.google.com'
- # GOOGLE ANALYTICS
+  # GOOGLE ANALYTICS
 - 'analytics.google.com'
 - 'google-analytics.com'
 - 'ssl.google-analytics.com'
@@ -2213,7 +2213,7 @@ Unidentified
 - 'ssl-google-analytics.l.google.com'
 - 'ww-google-analytics.l.google.com'
 - 'analyticssuitefrontend-pa.clients6.google.com'
- # Xiaomi
+  # Xiaomi
 - 'api.ad.intl.xiaomi.com'
 - 'resolver.msg.global.xiaomi.net'
 - 'id-miuilog.sms.intl.xiaomi.com'
@@ -2235,7 +2235,7 @@ Unidentified
 - 'app.chat.global.xiaomi.net'
 - 'api.ad.intl.xiaomi.com.itotolink.net'
 - 'api.ad.intl.xiaomi.com.www.tendawifi.com'
- # OPPO
+  # OPPO
 - 'api.push.oppomobile.com'
 - 'dcintl1.push.oppomobile.com'
 - 'dcintl2.push.oppomobile.com'
@@ -2248,7 +2248,7 @@ Unidentified
 - 'data-id.ads.oppomobile.com'
 - 'bdapi-id.ads.oppomobile.com'
 - 'data-cl-f.ads.oppomobile.com'
- # Googlesyndication.com'
+  # Googlesyndication.com'
 - 'googlesyndication.com'
 - 'ade.googlesyndication.com'
 - 'tpc.googlesyndication.com'
@@ -2256,32 +2256,32 @@ Unidentified
 - 'buttons.googlesyndication.com'
 - 'safeframe.googlesyndication.com'
 - 'video-ad-stats.googlesyndication.com'
- # QQ
+  # QQ
 - 'data.ab.qq.com'
 - 'otheve.beacon.qq.com'
 - 'oth.str.beacon.qq.com'
- # appier.net'
+  # appier.net'
 - 'gocm.c.appier.net'
 - 'aiqua-config.c.appier.net'
 - 'aiqua-sdk.c.appier.net'
 - 'aiqua-user.c.appier.net'
- # Goadservices.com'
+  # Goadservices.com'
 - 'goadservices.com'
 - 'bo.goadservices.com'
- # adjust.com'
+  # adjust.com'
 - 's2s.adjust.com'
 - 'ulink.adjust.com'
 - 'app.us.adjust.com'
 - 'view.adjust.com'
 - 'go.adjust.com'
 - 'unbotify.adjust.com'
- # Twitter.com'
+  # Twitter.com'
 - 'ads-twitter.com'
 - 'ads.twitter.com'
 - 'ads-api.twitter.com'
 - 'ads-bidder-api.twitter.com'
 - 'analytics.twitter.com'
- # A2z.com'
+  # A2z.com'
 - 'prod.cm.publishers.advertising.a2z.com'
 - 'analytics.console.aws.a2z.com'
 - 'pr.analytics.console.aws.a2z.com'
@@ -2294,7 +2294,7 @@ Unidentified
 - 'prod.pw.analytics.console.aws.a2z.com'
 - 'global.telemetry.insights.video.a2z.com'
 - 'us-east-1.telemetry.insights.video.a2z.com'
- # Adcolony
+  # Adcolony
 - 'wd.adcolony.xyz'
 - 'ads20.adcolony.com'
 - 'ads30.adcolony.com'
@@ -2333,7 +2333,7 @@ Unidentified
 - 'androidads4-5.adcolony.com'
 - 'androidads4-6.adcolony.com'
 - 'androidads4-7.adcolony.com'
- # DDOS MRIS BOTNET
+  # DDOS MRIS BOTNET
 - '1abcnews.xyz'
 - '1awesome.net'
 - '7standby.com'
@@ -2371,7 +2371,7 @@ Unidentified
 - 'myphotos.xyz'
 - 'onlinegt.xyz'
 - 'picsgifs.xyz'
- # Porn
+  # Porn
 - 'indoanh1.bokepindosange.info
 - 'hotvideo.bokep18.info
 - 'bokepindo.win
@@ -6142,7 +6142,7 @@ Unidentified
 - 'cast13.porngo.com'
 - 'cast14.porngo.com'
 - 'cast15.porngo.com'
-- 'cast.porngo.com'  #.
+- 'cast.porngo.com'   #.
 - 'cast.xxxfiles.com'
 - 'castingcouch-x.com'
 - 'castingcouchxfan.com'
@@ -43664,7 +43664,7 @@ snuff domains
 - 'www.saharanights.info
 - 'www.salamtakehoh.info
 - 'www.salasdewebcams.com'
-- 'www.sapphicerotica.com'  #/?
+- 'www.sapphicerotica.com'   #/?
 - 'www.sashafucksdasha.com'
 - 'www.sassyangel.com'
 - 'www.scandalonstage.com'
@@ -45723,7 +45723,7 @@ Title : General, Log & Others
 - 'userstats.iris.touchtype-fluency.com'
 - 'swiftkey-android.iris.touchtype-fluency.com'
 - 'geo-applefinance-cache.internal.query.g03.yahoodns.net'
- # Letv
+  # Letv
 - '1.letvlive.com'
 - '2.letvlive.com'
 - 'ads1.lfengmobile.com'
@@ -45746,7 +45746,7 @@ Title : General, Log & Others
 - 'static.app.m.letv.com'
 - 'webp2p.letv.com'
 - 'zamplus.com'
- # Youtube
+  # Youtube
 - 'azabu-u.ac.jp
 - 'couchcoaster.jp
 - 'delivery.dmkt-sp.jp
@@ -45754,7 +45754,7 @@ Title : General, Log & Others
 - 'm-78.jp
 - 'nichibenren.or.jp
 - 'nicorette.co.kr
- # Sohu
+  # Sohu
 - 'adnet.sohu.com'
 - 'aty.sohu.com'
 - 'epro.sogou.com'
@@ -45766,7 +45766,7 @@ Title : General, Log & Others
 - 'lu.sogoucdn.com'
 - 'theta.sogoucdn.com'
 - 'uranus.sogou.com'
- # PPTV
+  # PPTV
 - 'afp.pplive.com'
 - 'app.aplus.pptv.com'
 - 'as.aplus.pptv.com'
@@ -45776,13 +45776,13 @@ Title : General, Log & Others
 - 'pp2.pptv.com'
 - 'stat.pptv.com'
 - 'static.g.pptv.com'
- # Site
+  # Site
 - 'deliver.ifeng.com'
 - 'hxjs.tool.hexun.com'
 - 'hxsame.hexun.com'
 - 'itv.hexun.com'
 - 'utrack.hexun.com'
- # Vod
+  # Vod
 - 'ad.cmvideo.cn'
 - 'atm.cp31.ott.cibntv.net'
 - 'aty.cp45.ott.cibntv.net'
@@ -45790,7 +45790,7 @@ Title : General, Log & Others
 - 'float.kankan.com'
 - 'houyi.baofeng.net'
 - 'iadctest.qwapi.com'
- # Other
+  # Other
 - 'ad.video.51togic.com'
 - 'biz5.kankan.com'
 - 'c.algovid.com'
