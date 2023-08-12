@@ -1,0 +1,36 @@
+payload:
+  # OPenIXP
+  - '43.252.146.0/23'
+  # PTT Sao Paulo
+  - '187.16.208.0/20'
+  # DE-CIX Frankfurt
+  - '80.81.192.0/21'
+  # AMS-IX
+  - '80.249.208.0/21'
+  - '193.105.101.0/24'
+  # LINX LON1
+  - '195.66.224.0/21'
+  # 4b42 Internet Exchange Point
+  - '185.1.125.0/24'
+  # PTT Fortaleza
+  - '45.184.144.0/22'
+  # PTT Rio de Janeiro
+  - '45.6.52.0/22'
+  # NAPAfrica IX Johannesburg
+  - '196.46.25.128/25'
+  - '196.60.8.0/23'
+  # EPIX Katowice
+  - '195.191.170.0/23'
+  - '178.216.40.0/21'
+  # NL-IX
+  - '194.246.39.224/27'
+  - '193.239.116.0/22'
+  # EPIX Warsaw
+  - '91.212.9.0/24'
+  - '89.46.144.0/21'
+  # Equinix Singapore
+  - '27.111.228.0/22'
+  # Equinix Paris
+  - '195.42.144.0/23'
+  # France-IX
+  - '37.49.236.0/22'
