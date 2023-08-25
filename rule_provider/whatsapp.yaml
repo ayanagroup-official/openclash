@@ -612,8 +612,9 @@ payload:
   - IP-CIDR,102.221.189.60/30
   - IP-CIDR,102.221.188.60/30
   # WhatsApp Domain
-  - DOMAIN,*.whaatsapp.com
-  - DOMAIN,*.whsatsapp.net
+  - DOMAIN,wa.me
+  - DOMAIN-SUFFIX,whaatsapp.com
+  - DOMAIN-SUFFIX,whsatsapp.net
   - DOMAIN,whatsapp-cdn-shv-03-xsp1.fbcdn.net
   - DOMAIN,whatsapp-cdn-shv-01-xsp1.fbcdn.net
   - DOMAIN,whatsapp-cdn-shv-02-xsp1.fbcdn.net
