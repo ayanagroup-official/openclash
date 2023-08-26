@@ -24,8 +24,6 @@ payload:
   - IP-CIDR,fec0::/10
   - IP-CIDR,ff00::/8
   # Router Local
-  - DOMAIN-SUFFIX,lan
-  - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,itotolink.net
   - DOMAIN-SUFFIX,www.tendawifi.com
   - DOMAIN-SUFFIX,ip6.arpa
